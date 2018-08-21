@@ -7,3 +7,6 @@ MESSAGE.eap.1.2.60.needs.approve = Please make sure you got the approval of @kt-
 
 MESSAGE.1.3.M1.freeze = 1.3-M1 is being released, please hold from commits unless they are critical and approved by @kt-approvers in #kotlin-release
 1.3-M1 = 1.3.M1.freeze
+
+MESSAGE.1.3.M2.freeze = 1.3-M2 is finalized, please hold from commits unless they are critical and approved by @kt-approvers in #kotlin-release
+1.3-M2 = 1.3.M2.freeze
